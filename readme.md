@@ -24,6 +24,8 @@ And one more note - while components already exist, you will most likely have to
 3. **Create a New Button Component:**
 Develop a new button component from scratch, and replace all instances where it is hardcoded (basically Intro, Features and Contact Form that you are going to be creating from scratch anyway) in the current codebase. Ensure that this component is versatile, structured well, and can be easily adapted to different use cases, as it may be utilized in various sections or subpages. We are looking forward to seeing your version of a well-crafted, universal button component.
 
+> ⚠️ Heads up: your approach to creating this component will play a big part in how we score your whole task, so please take a while to carefully consider what, and how, should such Button component accept and handle to truly be universal and versatile. ⚠️
+
 4. **General Review:**
 While working on the tasks above, take some time to explore the repository and assess its structure and implementation. Yes, we know - it's a mess :) However, please refrain from fixing anything else or making changes outside of the two tasks mentioned; but be prepared to discuss your observations and any potential improvements during the next stage of the recruitment process if you are selected.
 
