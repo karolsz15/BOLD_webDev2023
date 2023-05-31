@@ -4,9 +4,7 @@ import Text from '../../components/text';
 import contactModel from '../../models/Contact.model';
 import ContactForm from './contact-form';
 
-const Contact = () => {
-
-  return (
+const Contact = () => (
     <div className="contact">
       <div className="container">
         <div className="content">
@@ -22,7 +20,6 @@ const Contact = () => {
         </div>
       </div>
     </div>
-  );
-};
+);
 
 export default Contact;

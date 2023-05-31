@@ -12,11 +12,12 @@ const ImageCard = ({image, heading, text, link}) => {
       <div className='imageCard__content'>
         <Heading level={3}>{heading}</Heading>
         <Text className="imageCard__text"> {text} </Text>
-        {/* <a href={link} className='imageCard__link'>Read More</a> */}
         <Button 
-          isDisabled={false}
+          ariaLabel='Link'
           className='imageCard__link'
           link={link}
+          rel='external'
+          target='_blank'
           text='Read More' 
           type='button' 
           version='primary' 

@@ -1,5 +1,4 @@
 .contact {
-  height: 30rem;
   background-color: white;
   padding: 9rem 0;
   
@@ -11,7 +10,6 @@
   }
 
   & .content {
-    /* color: black; */
     display: flex;
     flex-direction: column;
     justify-content: center;

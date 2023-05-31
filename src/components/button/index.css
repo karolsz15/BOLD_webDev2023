@@ -1,3 +1,7 @@
+:root {
+    --custom-red: #ED4C5C;
+}
+
 .btn {
     border: none;
     outline: none;
@@ -25,10 +29,10 @@
 
 .primary {
     background-color: white;
-    color: #ED4C5C;
+    color: var(--custom-red);
 }
 
 .secondary {
-    background-color: #ED4C5C;
+    background-color: var(--custom-red);
     color: white;
 }
